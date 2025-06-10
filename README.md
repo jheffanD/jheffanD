@@ -4,7 +4,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StackOverfloweds/StackOverfloweds/main/assets/jeffan.jpg" width="200" style="border-radius: 50%" />
+  <img src="jeffan.jpg" width="200" style="border-radius: 50%" />
 </p>
 
 ---
