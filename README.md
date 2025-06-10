@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
   <img src="1.png" height="30" alt="drawio" />
   <img src="2.png" height="30" alt="tailwindcss" />
+  <img src="3.png" height="30" alt="canva" />
 </p>
 
 ### 📈 GitHub Stats
