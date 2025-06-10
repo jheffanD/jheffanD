@@ -8,12 +8,12 @@
     <img src="https://i.imgur.com/3yJXWCe.jpg" width="200" style="border-radius:50%;" />
     </p>
 
----
+    ---
 
 ### 👨‍💻 About Me
 
 <p align="center">
-    <img src="jeffan.jpg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D3B7&center=true&vCenter=true&width=460&lines=console.log('Hi,+I+am+Jeffan!');Front-End+Developer+from+Yogyakarta;Gym+Rat+%7C+Comic+Nerd+%7C+Fullstacking+Life" />
     </p>
 
 
@@ -54,24 +54,3 @@
 ### 🧠 Quote of the Day
 *"Keep pushing boundaries, even if the world doesn’t know your code yet."*
     
-```js
-const jeffan = {
-  name: "👋 Jeffan Sulastyo",
-  role: "💻 Front-End Developer",
-  currentStatus: [
-    "🎓 Informatics Student @ USD",
-    "🧑‍💻 Freelancer & Hustler",
-    "🛠️ Project-Based Worker",
-    "🤫 Contract Cheating Ninja"
-  ],
-  techStack: {
-    languages: ["HTML", "CSS", "JavaScript"],
-    frameworks: ["React ⚛️", "Next.js 🚀", "Tailwind 🌬️"],
-    tools: ["Figma 🎨", "Jupyter Notebook 📓"]
-  },
-  learning: ["🐍 Python", "☕ Java"],
-  hobbies: ["🏋️‍♂️ Gym", "📖 Reading Manga & Webtoon"],
-  motto: "Keep coding. Keep pushing. 🚀"
-};
-
-```
