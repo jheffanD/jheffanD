@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Header Animasi -->
+<h1 align="center">Hi there, I'm <span style="color:#4ade80">Jeffan Sulastyo</span> 👋</h1>
+<p align="center">🌐 Front-End Developer | 🧠 Freelance & Student | 🏋️ Gym & Comics Lover</p>
 
-<!--
-**jheffanD/jheffanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Foto -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StackOverfloweds/StackOverfloweds/main/assets/jeffan.jpg" width="200" style="border-radius: 50%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+```js
+const jeffan = {
+  name: "Jeffan Sulastyo",
+  role: "Front-End Developer",
+  techStack: ["ReactJS", "NextJS", "TailwindCSS", "JavaScript", "HTML", "CSS"],
+  tools: ["Figma", "Jupyter Notebook"],
+  learning: ["Python", "Java"],
+  hobbies: ["Gym", "Reading Comics"],
+  status: ["College", "Freelance", "Project", "Contract Cheating 😎"]
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StackOverfloweds&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverfloweds&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 🚀 Highlight Project
+📌 [SupervisiTK Santa Lusia Guide](https://github.com/StackOverfloweds/SupervisiTK-SantaLusia-Guide)
+
+---
+
+### 📫 Reach Me
+<p align="left">
+  <a href="https://www.instagram.com/saya_jeffannnnnnnnnnnnnnnnn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeffan-sulastyo-195513354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jeffandasa86@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Quote of the Day
+> *"Keep pushing boundaries, even if the world doesn’t know your code yet."*
