@@ -1,3 +1,9 @@
+<!-- Typing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Hi+I'm+Jeffan+Sulastyo;Front-End+Developer;Gym+Addict+%26+Comic+Lover;Freelancer+%2F+College+Guy" alt="Typing SVG" />
+</h1>
+
+
 <!-- Header Animasi -->
 <h1 align="center">Hi there, I'm <span style="color:#4ade80">Jeffan Sulastyo</span> 👋</h1>
 <p align="center">🌐 Front-End Developer | 🧠 Freelance & Student | 🏋️ Gym & Comics Lover</p>
