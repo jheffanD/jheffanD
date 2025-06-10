@@ -5,7 +5,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="jeffan.jpg" width="200" style="border-radius:50%;" />
+  <img src="https://i.imgur.com/3yJXWCe.jpg" width="200" style="border-radius:50%;" />
 </p>
 
 ---
@@ -36,6 +36,7 @@ const jeffan = {
   motto: "Keep coding. Keep pushing. 🚀"
 };
 
+```
 
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" /> </p>
