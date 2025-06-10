@@ -8,7 +8,7 @@
     <img src="https://i.imgur.com/3yJXWCe.jpg" width="200" style="border-radius:50%;" />
     </p>
 
-    ---
+---
 
 ### 👨‍💻 About Me
 
@@ -54,3 +54,24 @@
 ### 🧠 Quote of the Day
 *"Keep pushing boundaries, even if the world doesn’t know your code yet."*
     
+```js
+const jeffan = {
+  name: "👋 Jeffan Sulastyo",
+  role: "💻 Front-End Developer",
+  currentStatus: [
+    "🎓 Informatics Student @ USD",
+    "🧑‍💻 Freelancer & Hustler",
+    "🛠️ Project-Based Worker",
+    "🤫 Contract Cheating Ninja"
+  ],
+  techStack: {
+    languages: ["HTML", "CSS", "JavaScript"],
+    frameworks: ["React ⚛️", "Next.js 🚀", "Tailwind 🌬️"],
+    tools: ["Figma 🎨", "Jupyter Notebook 📓"]
+  },
+  learning: ["🐍 Python", "☕ Java"],
+  hobbies: ["🏋️‍♂️ Gym", "📖 Reading Manga & Webtoon"],
+  motto: "Keep coding. Keep pushing. 🚀"
+};
+
+```
