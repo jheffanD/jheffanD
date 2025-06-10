@@ -1,6 +1,6 @@
 <!-- Typing effect -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Hi+I'm+Jeffan+Sulastyo;Front-End+Developer;Gym+Addict+%26+Comic+Lover;Freelancer+%2F+College+Guy" alt="Typing SVG" />
+    <img src="jeffan.jpg" alt="Typing SVG" />
     </h1>
 
 <!-- Foto -->
