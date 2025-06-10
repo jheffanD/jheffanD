@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D3B7&center=true&vCenter=true&width=460&lines=console.log('Hi,+I+am+Jeffan!');Front-End+Developer+from+Yogyakarta;Gym+Rat+%7C+Comic+Nerd+%7C+Fullstacking+Life" />
 </p>
 
-```js
+
 const jeffan = {
   name: "👋 Jeffan Sulastyo",
   role: "💻 Front-End Developer",
@@ -37,7 +37,7 @@ const jeffan = {
 };
 
 
----
+
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -50,7 +50,7 @@ const jeffan = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
 </p>
 
----
+
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -58,12 +58,11 @@ const jeffan = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverfloweds&layout=compact&theme=radical" height="165"/>
 </p>
 
----
 
 ### 🚀 Highlight Project
 📌 [SupervisiTK Santa Lusia Guide](https://github.com/StackOverfloweds/SupervisiTK-SantaLusia-Guide)
 
----
+
 
 ### 📫 Reach Me
 <p align="left">
@@ -78,7 +77,7 @@ const jeffan = {
   </a>
 </p>
 
----
+
 
 ### 🧠 Quote of the Day
 > *"Keep pushing boundaries, even if the world doesn’t know your code yet."*
