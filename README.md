@@ -29,6 +29,10 @@
   <img src="1.png" height="30" alt="drawio" />
   <img src="2.png" height="30" alt="tailwindcss" />
   <img src="3.png" height="30" alt="canva" />
+  <img src="4.png" height="30" alt="aacterrnitiy ui" />
+  <img src="5.png" height="30" alt="fakeapi" />
+  <img src="6.png" height="30" alt="color hunt" />
+  <img src="7.png" height="30" alt="chatgpt" />
 </p>
 
 ### 📈 GitHub Stats
