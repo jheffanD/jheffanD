@@ -1,14 +1,12 @@
 <!-- Typing effect -->
 <h1 align="center">
-    <img src="jeffan.jpg" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Hi+I'm+Jeffan+Sulastyo;Front-End+Developer;Gym+Addict+%26+Comic+Lover;Freelancer+%2F+College+Guy" alt="Typing SVG" />
     </h1>
 
 <!-- Foto -->
 <p align="center">
-    <img src="https://i.imgur.com/3yJXWCe.jpg" width="200" style="border-radius:50%;" />
+    <img src="jeffan.jpg" width="200" style="border-radius:50%;" />
     </p>
-
-    ---
 
 ### 👨‍💻 About Me
 
@@ -27,7 +25,7 @@
 
 ### 🚀 Highlight Project
 
-📌 [SupervisiTK Santa Lusia Guide](https://github.com/StackOverfloweds/SupervisiTK-SantaLusia-Guide)
+📌[SupervisiTK Santa Lusia Guide](https://github.com/StackOverfloweds/SupervisiTK-SantaLusia-Guide)
 
 ### 📫 Reach Me
 
