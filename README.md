@@ -12,7 +12,6 @@
 ---
 
 ### 👨‍💻 About Me
-```js
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D3B7&center=true&vCenter=true&width=460&lines=console.log('Hi,+I+am+Jeffan!');Front-End+Developer+from+Yogyakarta;Gym+Rat+%7C+Comic+Nerd+%7C+Fullstacking+Life" />
 </p>
@@ -37,7 +36,6 @@ const jeffan = {
   motto: "Keep coding. Keep pushing. 🚀"
 };
 
-```
 
 ---
 
