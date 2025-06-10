@@ -1,7 +1,7 @@
 <!-- Typing effect -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Hi+I'm+Jeffan+Sulastyo;Front-End+Developer;Gym+Addict+%26+Comic+Lover;Freelancer+%2F+College+Guy" alt="Typing SVG" />
-    </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi+I'm+Jeffan+Sulastyo;Front-End+Developer;Gym+Addict+%26+Comic+Lover;Freelancer+%2F+College+Guy;Informatics+Student+@+USD;Project-Based+Worker;Contract+Cheating+Ninja" alt="Typing SVG" />
+</h1>
 
 <!-- Foto -->
 <p align="center">
@@ -32,7 +32,7 @@
   <img src="4.png" height="30" alt="aacterrnitiy ui" />
   <img src="5.png" height="30" alt="fakeapi" />
   <img src="6.png" height="30" alt="color hunt" />
-  <img src="7.png" height="30" alt="chatgpt" />
+  <img src="7.png" height="30" alt="conlor hut" />
 </p>
 
 ### 📈 GitHub Stats
