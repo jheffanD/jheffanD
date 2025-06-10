@@ -4,10 +4,6 @@
 </h1>
 
 
-<!-- Header Animasi -->
-<h1 align="center">Hi there, I'm <span style="color:#4ade80">Jeffan Sulastyo</span> 👋</h1>
-<p align="center">🌐 Front-End Developer | 🧠 Freelance & Student | 🏋️ Gym & Comics Lover</p>
-
 <!-- Foto -->
 <p align="center">
   <img src="jeffan.jpg" width="200" style="border-radius: 50%" />
@@ -17,15 +13,30 @@
 
 ### 👨‍💻 About Me
 ```js
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D3B7&center=true&vCenter=true&width=460&lines=console.log('Hi,+I+am+Jeffan!');Front-End+Developer+from+Yogyakarta;Gym+Rat+%7C+Comic+Nerd+%7C+Fullstacking+Life" />
+</p>
+
+```js
 const jeffan = {
-  name: "Jeffan Sulastyo",
-  role: "Front-End Developer",
-  techStack: ["ReactJS", "NextJS", "TailwindCSS", "JavaScript", "HTML", "CSS"],
-  tools: ["Figma", "Jupyter Notebook"],
-  learning: ["Python", "Java"],
-  hobbies: ["Gym", "Reading Comics"],
-  status: ["College", "Freelance", "Project", "Contract Cheating 😎"]
+  name: "👋 Jeffan Sulastyo",
+  role: "💻 Front-End Developer",
+  currentStatus: [
+    "🎓 Informatics Student @ USD",
+    "🧑‍💻 Freelancer & Hustler",
+    "🛠️ Project-Based Worker",
+    "🤫 Contract Cheating Ninja"
+  ],
+  techStack: {
+    languages: ["HTML", "CSS", "JavaScript"],
+    frameworks: ["React ⚛️", "Next.js 🚀", "Tailwind 🌬️"],
+    tools: ["Figma 🎨", "Jupyter Notebook 📓"]
+  },
+  learning: ["🐍 Python", "☕ Java"],
+  hobbies: ["🏋️‍♂️ Gym", "📖 Reading Manga & Webtoon"],
+  motto: "Keep coding. Keep pushing. 🚀"
 };
+
 ```
 
 ---
